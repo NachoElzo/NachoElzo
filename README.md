@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=NachoElzo&color=blue" alt="Profile Views"/>
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NachoElzo/NachoElzo/main/mountains.jpg" width="600" height="300"/>
+  <img src="https://raw.githubusercontent.com/NachoElzo/NachoElzo/main/mountains.jpg" width="800" height="300" style="margin-top:20px;"/>
 </div>
 
 ---
@@ -33,7 +33,6 @@ Feel free to explore my repositories and projects to learn more about my work an
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
 </div>
