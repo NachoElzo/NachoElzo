@@ -9,9 +9,8 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=NachoElzo&color=blue" alt="Profile Views"/>
 </div>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NachoElzo/NachoElzo/main/mountains.jpg" width="700" height="300"/>
+  <img src="https://raw.githubusercontent.com/NachoElzo/NachoElzo/main/mountains.jpg" width="1000" height="250" style="margin: 25px; border-radius: 7px;"/>
 </div>
 
 ---
